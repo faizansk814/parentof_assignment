@@ -1,0 +1,2 @@
+1)First three question is in index.js
+2)Fourth question Backend part is is (Backend folder) and frontend Part is in (myapp)
